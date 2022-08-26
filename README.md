@@ -150,18 +150,18 @@ This guide is an outline, not the complete package. You'll need to research what
 
 This general guide has been applied to various characters by ceelows, here you can find links to the current ones published on youtube:
 
-Sakura - https://www.youtube.com/watch?v=juWv7Ye7xm4&list=PL64Jxh4-zRo1jPZUSA9Eb5k1PzpLRyXhu
-Lucia - https://www.youtube.com/watch?v=4ueOv9eYphY&list=PL64Jxh4-zRo1dyrqj4PgoywDh2Ay9-OIN
-Sagat - https://www.youtube.com/watch?v=QJuySDm9ICE&list=PL64Jxh4-zRo2hjFIAQQvwySfPuVKDnWcB
-Juri - https://www.youtube.com/watch?v=lWd79O8fP-E&list=PL64Jxh4-zRo1iHklz8ZQgPonnCkKohGa2
-Chun Li - https://www.youtube.com/watch?v=I7NL6vAiw90&list=PL64Jxh4-zRo0wtzHR77gBOfGIM5dVK5UT
-Ryu - https://www.youtube.com/watch?v=kk7xlHnQ61w&list=PL64Jxh4-zRo1y3FWtZf09DlyqDl_C24bT
-Ken - https://www.youtube.com/watch?v=DZd0VreY6Bk
-Luke - https://www.youtube.com/watch?v=7BXZbNPD778
-Kage - https://www.youtube.com/watch?v=qye8tBz2gW8
-Akira - https://www.youtube.com/watch?v=iDgwF2PDRzw
-Cammy - https://www.youtube.com/watch?v=Rb_2tGo7sAs
-Guile - https://www.youtube.com/watch?v=81LcMpBV0DE
-Karin - https://www.youtube.com/watch?v=HubJoVf0Des
-Cody - https://www.youtube.com/watch?v=rQ0TEYPEBMM
-Menat - https://www.youtube.com/watch?v=T_r8_TolR0s
+- Sakura - https://www.youtube.com/watch?v=juWv7Ye7xm4&list=PL64Jxh4-zRo1jPZUSA9Eb5k1PzpLRyXhu
+- Lucia - https://www.youtube.com/watch?v=4ueOv9eYphY&list=PL64Jxh4-zRo1dyrqj4PgoywDh2Ay9-OIN
+- Sagat - https://www.youtube.com/watch?v=QJuySDm9ICE&list=PL64Jxh4-zRo2hjFIAQQvwySfPuVKDnWcB
+- Juri - https://www.youtube.com/watch?v=lWd79O8fP-E&list=PL64Jxh4-zRo1iHklz8ZQgPonnCkKohGa2
+- Chun Li - https://www.youtube.com/watch?v=I7NL6vAiw90&list=PL64Jxh4-zRo0wtzHR77gBOfGIM5dVK5UT
+- Ryu - https://www.youtube.com/watch?v=kk7xlHnQ61w&list=PL64Jxh4-zRo1y3FWtZf09DlyqDl_C24bT
+- Ken - https://www.youtube.com/watch?v=DZd0VreY6Bk
+- Luke - https://www.youtube.com/watch?v=7BXZbNPD778
+- Kage - https://www.youtube.com/watch?v=qye8tBz2gW8
+- Akira - https://www.youtube.com/watch?v=iDgwF2PDRzw
+- Cammy - https://www.youtube.com/watch?v=Rb_2tGo7sAs
+- Guile - https://www.youtube.com/watch?v=81LcMpBV0DE
+- Karin - https://www.youtube.com/watch?v=HubJoVf0Des
+- Cody - https://www.youtube.com/watch?v=rQ0TEYPEBMM
+- Menat - https://www.youtube.com/watch?v=T_r8_TolR0s
