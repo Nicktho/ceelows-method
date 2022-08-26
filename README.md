@@ -142,6 +142,7 @@ This guide is an outline, not the complete package. You'll need to research what
 - Learning when not to delay tech
 - Low confirms
 - Single hit confirms
+- Whiff punish
 - Reacting to and punishing dashes
 - Optimise combos, for example, ending in a more damaging special for your combo in the corner as you may not need as much knockdown adv.
 - V shift as an on reaction punish
