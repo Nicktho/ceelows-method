@@ -2,6 +2,8 @@
 
 The ceelows method is a framework or guideline that can be applied to any character in SFV as a tool for learning the game and ranking up.
 
+It's a summary and generalisation of the video guides by ceelows on his youtube https://www.youtube.com/c/Ceelows/videos.
+
 As you progress through the ranks, you will be adding tools to develop a gameplan with your character.
 
 By keeping the amount of tools used in the beginning low, you can focus on learning the flow of the game, rather than trying to memorise
